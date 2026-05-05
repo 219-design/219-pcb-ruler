@@ -25,7 +25,7 @@ Buttons::Buttons(int center_btn_pin, int left_btn_pin, int right_btn_pin, int up
 uint32_t Buttons::get_presses() {
   uint8_t ret_mask = 0;
   for (int idx = 0; idx < NUM_BTNS; ++idx) {
-    int now = millis();
+    uint32_t now = millis();
     int rd = m_btn_pin[idx] != INVALID_PIN ? digitalRead(m_btn_pin[idx]) : BTN_DEASSERT_LEVEL;
     if (rd != m_last_btn_rd[idx]) {
       // Serial.printf("btn: %d : %d\r\n", idx, rd);
