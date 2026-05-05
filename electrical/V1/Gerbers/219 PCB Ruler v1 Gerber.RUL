@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\kykypi\AppData\Local\TempReleases\Snapshot\1\PCB.PcbDoc
+DRC Rules Export File for PCB: 
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_RequireTentedVias|Scope=Board|Minimum=4.00
 RuleKind=Clearance|RuleName=Clearance_digital|Scope=Board|Minimum=5.00
 RuleKind=Clearance|RuleName=Clearance_analog|Scope=Board|Minimum=5.00
