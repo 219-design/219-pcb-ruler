@@ -40,14 +40,14 @@ The board has four footprints (C1-C4) for bypass caps to provide some localized 
 The board has two power LEDs: 5V (D1) and 3V3 (D2). Recommend installing these and their associated current limiting resistors (R1, R2).
 
 #### Want to use use a LiPo battery?
-Surface mount solder the MCU to U1 so the BAT- and BAT+ TH pins tought the pads on the bottom of the module.
+Surface mount solder the MCU to U1 so the BAT- and BAT+ TH pins touch the pads on the bottom of the module.
 Solder a connector to P17 and flow solder through the BAT- and BAT+ TH pads to connect the pads to the pads on the bottom of the MCU module.
 Choose a battery that meets your project specs and make sure the pinout matches the connector.
 Note: the silk screen label for the battery connector on v1 is flipped. See [Known Issues](https://github.com/219-design/219-pcb-ruler/tree/init#known-issues).
 
 #### Want to use buttons?
 Solder buttons to as many of the D-pad button pads as you would like. Make sure to solder the center button first if you want to use it since it will be harder to solder it after installing the outer buttons.
-The buttons short to return on press. The circuit doesn't include a pull up or deboucing circuit so recommend implementing this in firmware.
+The buttons short to return on press. The circuit doesn't include a pull up or debouncing circuit so recommend implementing this in firmware.
 
 #### Want to use Neopixels?
 Solder Neopixels to as many of the pads as you would like (U2, U3, U4, U5, U6). Note that Neopixels works on single wire communication and ours are connected in numerical order. So if you would like to use only one Neopixel, use U2. Otherwise you will need to short the input and output pins across the unused Neopixels in the chain before the one you want to use in order for the signal to reach a pad later in the chain.
