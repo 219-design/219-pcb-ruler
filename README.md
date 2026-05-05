@@ -12,7 +12,7 @@ Perform a continuity test before using the battery connector to ensure the conne
 
 ## Ways to use the 219 PCB Ruler
 ### Bare PCB
-![Bare Boards](https://github.com/219-design/219-pcb-ruler/blob/init/photos/bare_boards_1.jpg)
+![Bare Boards](photos/bare_boards_1.jpg)
 - Metric and imperial ruler
 - Mechanical and electrical references
 - QR code to access additional resources
@@ -20,7 +20,7 @@ Perform a continuity test before using the battery connector to ensure the conne
 ---
 
 ### Electrical Projects
-![Electrical Demos](https://github.com/219-design/219-pcb-ruler/blob/init/photos/electrical.jpg)
+![Electrical Demos](photos/electrical.jpg)
 
 Experiment with electronics by soldering on a variety of components to build your own custom projects.  
 
@@ -41,18 +41,18 @@ The board includes **custom solder jumpers** for maximum flexibility.
 - These can be used to add series elements or to solder a wire directly to a connection point.  
 
 #### Examples and Resources
-Explore our [examples folder](https://github.com/219-design/219-pcb-ruler/tree/init/firmware/ruler_lib/examples) for project ideas and wiring diagrams.  
+Explore our [examples folder](firmware/ruler_lib/examples) for project ideas and wiring diagrams.  
 
 Want to design your own version or order a custom PCB?  
-Visit the [electrical folder](https://github.com/219-design/219-pcb-ruler/tree/init/electrical) for **Altium design files** and **Gerbers**.  
+Visit the [electrical folder](electrical) for **Altium design files** and **Gerbers**.  
 
 ---
 
 ### Mechanical Projects
-![Mechanical Demos](https://github.com/219-design/219-pcb-ruler/blob/init/photos/mechanical.jpg)
+![Mechanical Demos](photos/mechanical.jpg)
 
 The PCB ruler is also a great platform for **3D-printed attachments**.  
 
 Weve designed a **3D-printable clamp** that securely grips the ruler and can be adapted for a variety of uses - such as **tool holders**, **marking tools**, or other creative mechanical add-ons.  
 
-Explore our demo designs on [Onshape](https://cad.onshape.com/documents/a66641dbc2e63d92f0bfc751/w/f00ac217e622a64d2a372b85/e/9fa5ab666376091f7bf63026), or browse the [mechanical folder](https://github.com/219-design/219-pcb-ruler/tree/init/mechanical) for CAD files and printable models.  
+Explore our demo designs on [Onshape](https://cad.onshape.com/documents/a66641dbc2e63d92f0bfc751/w/f00ac217e622a64d2a372b85/e/9fa5ab666376091f7bf63026), or browse the [mechanical folder](mechanical) for CAD files and printable models.  
