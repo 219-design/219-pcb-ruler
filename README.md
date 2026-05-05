@@ -10,7 +10,7 @@ Perform a continuity test before using the battery connector to ensure the conne
 
 ## Ways to use the 219 PCB Ruler
 ### Bare PCB
-![Bare Boards]()
+![Bare Boards](https://github.com/219-design/219-pcb-ruler/blob/init/photos/bare_boards_1.jpg)
 - Metric and imperial ruler
 - Mechanical and electrical references
 - QR code to access additional resources
