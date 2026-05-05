@@ -43,7 +43,7 @@ The board has two power LEDs: 5V (D1) and 3V3 (D2). Recommend installing these a
 Surface mount solder the MCU to U1 so the BAT- and BAT+ TH pins tought the pads on the bottom of the module.
 Solder a connector to P17 and flow solder through the BAT- and BAT+ TH pads to connect the pads to the pads on the bottom of the MCU module.
 Choose a battery that meets your project specs and make sure the pinout matches the connector.
-Note: the silk screen label for the battery connector on v1 is flipped. See [Known Issues](..#known-issues).
+Note: the silk screen label for the battery connector on v1 is flipped. See [Known Issues](../#known-issues).
 
 #### Want to use buttons?
 Solder buttons to as many of the D-pad button pads as you would like. Make sure to solder the center button first if you want to use it since it will be harder to solder it after installing the outer buttons.
