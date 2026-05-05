@@ -31,6 +31,6 @@ Any dependent libraries are noted with the github repository in the example code
 
 ### Seed XIAO Boards 
 
-Install Seed XIAO Boards the as instructed by:
+Install Seed XIAO Board packages as instructed by:
 https://wiki.seeedstudio.com/XIAO_BLE/#getting-started
 
