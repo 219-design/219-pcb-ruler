@@ -4,6 +4,8 @@ The 219 PCB Ruler is a multi-disciplinary tool and development platform. Explore
 
 Want to see the projects we've made so far? Check out the [examples folder](https://github.com/219-design/219-pcb-ruler/tree/init/firmware/ruler_lib/examples).
 
+![Demos](https://github.com/219-design/219-pcb-ruler/blob/init/photos/demos.jpg)
+
 ### Known Issues
 V1 of the 219 PCB Ruler has the silk screen markings of the battery connector (P17) flipped. BAT+ and BAT- should be swapped. 
 Perform a continuity test before using the battery connector to ensure the connections are correct.
@@ -18,7 +20,7 @@ Perform a continuity test before using the battery connector to ensure the conne
 ---
 
 ### Electrical Projects
-![Electrical Demos]()
+![Electrical Demos](https://github.com/219-design/219-pcb-ruler/blob/init/photos/electrical.jpg)
 
 Experiment with electronics by soldering on a variety of components to build your own custom projects.  
 
@@ -47,7 +49,7 @@ Visit the [electrical folder](https://github.com/219-design/219-pcb-ruler/tree/i
 ---
 
 ### Mechanical Projects
-![Mechanical Demos]()
+![Mechanical Demos](https://github.com/219-design/219-pcb-ruler/blob/init/photos/mechanical.jpg)
 
 The PCB ruler is also a great platform for **3D-printed attachments**.  
 
