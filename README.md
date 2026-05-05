@@ -2,7 +2,7 @@
 
 The 219 PCB Ruler is a multi-disciplinary tool and development platform. Explore this repository to find inspiration for some of the many ways that this ruler can be built out to help you solve problems and create cool projects.
 
-Want to see the projects we've made so far? Check out the [examples folder](https://github.com/219-design/219-pcb-ruler/tree/init/firmware/ruler_lib/examples).
+Want to see the projects we've made so far? Check out the [examples folder](firmware/ruler_lib/examples).
 
 ![Demos](photos/demos.jpg)
 
